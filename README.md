@@ -16,11 +16,10 @@ is designed to promote safety and sustained attention in high-focus environments
       🚨 Tiered Alert System
       
         Issues progressively louder alerts based on how long the eyes stay closed:
+        
             🟡 Mild siren after 3 seconds
             
             🔴 Intense alert sound after 4 seconds
-            
-            🧠 Focus & Safety Enhancement
             
         Helps users stay alert, reducing the risk of microsleep or distractions, especially in critical or productivity-driven situations.
 
