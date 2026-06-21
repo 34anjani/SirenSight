@@ -18,11 +18,11 @@
   ---
   
   ## 🛠️ Technologies Used
-  * 🐍 Python – Core programming language
-  * 📸 OpenCV – For real-time video capture and frame processing
-  * 🧩 Dlib or Haar Cascades – Eye and facial feature detection
-  * 🔊 Pygame / playsound – To play warning sounds
-  * 🧵 Threading & Time modules – For non-blocking timing and alert logic
+  * **🐍 Python** – Core programming language
+  * **📸 OpenCV** – For real-time video capture and frame processing
+  * **🧩 Dlib** – Eye and facial feature detection
+  * **🔊 Pygame / playsound** – To play warning sounds
+  * **🧵 Threading & Time modules** – For non-blocking timing and alert logic
   
   ---
   
