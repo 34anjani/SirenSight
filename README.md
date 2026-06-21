@@ -34,27 +34,31 @@
   ---
   
   ## 🚀 How to Run
+   ## 🚀 How to Run
   
   1. Clone the repository
      ```bash
      git clone https://github.com/34anjani/SirenSight.git
      cd SirenSight
+     ```
   
   2. Install dependencies
-  
+      ```bash
      pip install opencv-python dlib pygame numpy
+      ```
   
   3. Download the shape predictor model
-  
      Download shape_predictor_68_face_landmarks.dat from:
-     http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2 (http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2)
+     http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2
      > Extract and place it in the project root folder
   
   4. Run the application
-  
+     ```bash
      python modify.py
+     ```
   
   5. Usage
-    - Ensure your webcam is connected
-    - The system will start monitoring your eyes in real-time
-    - Close your eyes for 3+ seconds to trigger the alert
+     
+  - Ensure your webcam is connected
+  - The system will start monitoring your eyes in real-time
+  - Close your eyes for 3+ seconds to trigger the alert
