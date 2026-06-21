@@ -1,4 +1,4 @@
-# 🚨 SirenSight – AI-Based Eye Closure Detection & Alert System
+# 🚨 SirenSight – AI Based Eye Closure Detection & Alert System
   
   ## 📌 Overview
   
