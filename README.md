@@ -10,11 +10,11 @@
   * **👁️ Real-Time Eye Closure Detection** – Continuously monitors the user's eyes through a webcam and detects closure using computer vision techniques.
   * **⏱️ Duration-Based Monitoring** – Accurately measures how long the eyes remain closed, tracking every second to detect signs of fatigue or inattention.
 
-  * **🚨 Tiered Alert System** – Issues progressively louder alerts based on how long the eyes stay closed:
+  * **🚨 Tiered Alert System**
+  * – Issues progressively louder alerts based on how long the eyes stay closed:
     * 🟡 Mild siren after 3 seconds
     * 🔴 Intense alert sound after 4 seconds
-  
-    Helps users stay alert, reducing the risk of microsleep or distractions, especially in critical or productivity-driven situations.
+  * - Helps users stay alert, reducing the risk of microsleep or distractions, especially in critical or productivity-driven situations.
   
   ## 🛠️ Technologies Used
   * 🐍 Python – Core programming language
