@@ -1,9 +1,8 @@
-# 🚨 SirenSight – AI Based Eye Closure Detection & Alert System
+  # 🚨 SirenSight – AI Based Eye Closure Detection & Alert System
   
   ## 📌 Overview
   
-  SirenSight is a real-time drowsiness and focus monitoring system that leverages computer vision to detect prolonged eye closure and trigger escalating alerts. It is designed to promote safety and sustained attention in high-focus environments
-  such as driving, studying, or working late hours.
+**SirenSight** is a real-time **drowsiness and focus monitoring system** that leverages computer vision to **detect prolonged eye closure** and **trigger escalating alerts**. It is designed to promote safety and sustained attention in high-focus environments such as driving, studying, or working late hours.
   
   ---
   
