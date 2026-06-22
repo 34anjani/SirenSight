@@ -25,7 +25,7 @@
   
   ---
   
-  ## 📌 Use Case Scenarios
+ ## 📈 Potential Use Cases
   * 🚗 Driver Drowsiness Detection
   * 🎓 Student Focus Monitoring
   * 🧑‍💻 Work-from-Home Fatigue Prevention
